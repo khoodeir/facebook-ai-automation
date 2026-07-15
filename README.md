@@ -47,10 +47,6 @@ The workflow includes:
 4. Update your Webhook URL.
 5. Activate the workflow.
 
-## 📸 Preview
-
-<img src="workflow.png" width="100%" alt="Workflow"/>
-
 ## 📄 License
 
 This project is available for learning and demonstration purposes.
